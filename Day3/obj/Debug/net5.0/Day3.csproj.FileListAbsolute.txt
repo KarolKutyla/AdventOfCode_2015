@@ -1,0 +1,15 @@
+D:\Repozytoria\AdventOfCode\Day3\bin\Debug\net5.0\Day3.exe
+D:\Repozytoria\AdventOfCode\Day3\bin\Debug\net5.0\Day3.deps.json
+D:\Repozytoria\AdventOfCode\Day3\bin\Debug\net5.0\Day3.runtimeconfig.json
+D:\Repozytoria\AdventOfCode\Day3\bin\Debug\net5.0\Day3.runtimeconfig.dev.json
+D:\Repozytoria\AdventOfCode\Day3\bin\Debug\net5.0\Day3.dll
+D:\Repozytoria\AdventOfCode\Day3\bin\Debug\net5.0\ref\Day3.dll
+D:\Repozytoria\AdventOfCode\Day3\bin\Debug\net5.0\Day3.pdb
+D:\Repozytoria\AdventOfCode\Day3\obj\Debug\net5.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repozytoria\AdventOfCode\Day3\obj\Debug\net5.0\Day3.AssemblyInfoInputs.cache
+D:\Repozytoria\AdventOfCode\Day3\obj\Debug\net5.0\Day3.AssemblyInfo.cs
+D:\Repozytoria\AdventOfCode\Day3\obj\Debug\net5.0\Day3.csproj.CoreCompileInputs.cache
+D:\Repozytoria\AdventOfCode\Day3\obj\Debug\net5.0\Day3.dll
+D:\Repozytoria\AdventOfCode\Day3\obj\Debug\net5.0\ref\Day3.dll
+D:\Repozytoria\AdventOfCode\Day3\obj\Debug\net5.0\Day3.pdb
+D:\Repozytoria\AdventOfCode\Day3\obj\Debug\net5.0\Day3.genruntimeconfig.cache
