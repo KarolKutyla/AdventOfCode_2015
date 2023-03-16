@@ -20,7 +20,6 @@ class Program
         Console.WriteLine(i);
         Console.WriteLine(TryHash(i));
 
-        i = 0;
         while (1 < int.MaxValue)
         {
             if (DoesMatchForSix(TryHash(i)))
